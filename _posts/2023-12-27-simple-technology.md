@@ -7,7 +7,7 @@ Everything on the internet wants to draw us in because that's how most internet-
 
 But, my question is, do we ever stop to think whether any of this is good for us? 
 
-One of the ideas I've always ruminated on is the idea this:
+One of the ideas I've always ruminated on is this idea:
 
 Maybe instead of our goal being to increase usership, shouldn't our aim as technologists be to make technology that enables us to use technology less?
 

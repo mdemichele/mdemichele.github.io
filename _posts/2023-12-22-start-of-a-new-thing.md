@@ -15,6 +15,6 @@ But the things that are simple remain relevant because they are beautiful in the
 
 Simplicity isn't the norm in the world we live in today. In my everyday life, I feel constantly bombarded by noise, by loud screens, by FOMO, by every advertisement that screams at me throughout the day. In today's world, simplicity feels that much more different. 
 
-Simplicity welcomes. 
-It invites. 
-It makes space where there was none.  
+Simplicity welcomes.<br/> 
+It invites.<br/> 
+It makes space where there was none. <br/>  

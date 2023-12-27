@@ -2,8 +2,8 @@
 layout: default
 title: Mornings Like These
 ---
-These morning are like stale coffee; the numbing,<br/>
-wet asphalt.<br/>
+These morning are like stale coffee;</br> 
+the numbing, wet asphalt.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Every frozen piece of metal railing,<br/>
 seems like such a bone-breaking and jerky<br/>
 awakening.<br/>
@@ -17,15 +17,15 @@ dead leaves pitter-pattered through the soggy <br/>
 mosh pits of sewer water.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;raging brown dirt constrasts the white paint,<br/>
 faced out on the walls.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Two shrinking shadows. That ugly<br/>
-American Apparel billboard.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Two shrinking shadows. 
+That ugly American Apparel billboard.<br/>
 Sumatriptan kind of sunrise. Soggy toast. <br/>
 Bike racks emptied by the maintenance man.<br/>
 <br/>
-Dreary old drunk sputterin his steps: two paces forward.<br/>
+Dreary old drunk sputtering his steps: two paces forward.<br/>
 One back.<br/>
 Each crufty oak branch begrimed in between bus stop benches.<br/>
-With a sulk, hoary Russian woman and two little fury eyes.<br/>
+With a sulky, hoary Russian woman and two little fury eyes.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Blood shot irises, strung-hung like a crucifier.<br/>
 This crucible of miseries and wilted petals--brown, never white.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Always tired, sleepers in the morning.<br/>

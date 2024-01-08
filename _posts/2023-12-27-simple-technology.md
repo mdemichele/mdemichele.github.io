@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Simple Technology
 ---
 I wonder how healthy technology's obsession with increasing viewership and usership is. Social media companies want to hold our attention as long as possible and at all costs. Websites pump out clickable and sensational content to lure eyeballs to their corner of the web. 

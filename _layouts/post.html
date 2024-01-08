@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="post-title-box">
+      <h3 class="post-title"> {{ page.title }}</h3>
+      <p>{{ page.date | date: "%b %d, %Y"}}</p>
+    </div>
+    <div class="post-content">
+      {{ content }}
+    </div>
+  </body>
+</html>

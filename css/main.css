@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700|Playfair+Display:400,700,900);
+
+body {
+    font-family: 'Playfair', serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 700;
+}

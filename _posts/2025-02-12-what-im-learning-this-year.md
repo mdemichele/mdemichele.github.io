@@ -45,6 +45,6 @@ Migration. Language. Political instability.  Tension between the Emperor and the
 The protect the stability of the papacy and prevent lay oversight, the professional production of knowledge and reason is harnessed and centralized in the form of the university.  Rational arguments to secure papal authority.  Out of this context, we get modern culture."
 
 
-## Web Stability Guidelines - (View Here)[https://w3c.github.io/sustainableweb-wsg/]
-This is a really interesting document that I came across through the w3C github repo. You can view the repo (here)[https://github.com/w3c/sustainableweb-wsg]
+## Web Stability Guidelines - [View Here](https://w3c.github.io/sustainableweb-wsg/)
+This is a really interesting document that I came across through the w3C github repo. You can view the repo [here](https://github.com/w3c/sustainableweb-wsg)
 
